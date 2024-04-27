@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AKTodo</string>
+    <string name="todo_item_title">Todo Item Title</string>
+    <string name="todo_item_description">Todo Item description</string>
+</resources>
